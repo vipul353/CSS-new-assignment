@@ -1,0 +1,31 @@
+h1{
+color: red;
+}
+
+h2{
+    color: red;
+    font-style: italic;
+}
+
+p{
+ color: brown;
+}
+
+.First_list{
+    color: brown;
+    font-weight:600;
+}
+
+.Second_list{
+    color: brown;
+    font-weight: 500;
+    letter-spacing: 3px;
+}
+
+a{
+    font-style: italic;
+    background-color: yellow;
+    color: brown;
+    text-decoration: none;
+
+}
